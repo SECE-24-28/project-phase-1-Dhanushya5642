@@ -1,0 +1,10 @@
+Manager:
+     -> Create Events
+     -> Edit Events
+     -> View All Events
+     -> Delete Event
+     -> View Employee Registrations
+
+Employee:
+     -> Register for events
+     -> Edit their Registration 
